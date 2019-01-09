@@ -1,6 +1,6 @@
 ---
 title: Chad Jemmett's First Post
-date: 'January 9, 2019'
+date: '2019-01-08T22:40:32.169Z'
 ---
 
 Hi, I'm Chad Jemmett. I am a web developer currently attending [Lambda School](https://lambdaschool.com/)
