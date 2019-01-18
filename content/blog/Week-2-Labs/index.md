@@ -23,7 +23,7 @@ Github Handle: [ceejaay](https://github.com/ceejaay)
 Of all of these pull requests, the one we'll discuss today is this one:
 [Logic for the analyze button](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/30)
 
-I started working on this by myself. After pair-programming on my other PR this week. I thought I'd do some solo work. I wrote it up toward the end of the day. After that, I was sure I was sick. When I came back. I saw that my team and made a bunch of changes to my work in my abscence. After working alone for 15 weeks in Lambda School, you think every line of code you write is a precsious gem of exquisit rarity. Then you collaborate and realize your work is trash. Well, it's not all trash. It's just not as good as you think it is.
+I started working on this by myself. After pair-programming on my other PR this week. I thought I'd do some solo work. I wrote it up toward the end of the day. After that, I was sure I was sick. When I came back. I saw that my team and made a bunch of changes to my work in my absence. After working alone for 15 weeks in Lambda School, you think every line of code you write is a precious gem of exquisite rarity. Then you collaborate and realize your work is trash. Well, it's not all trash. It's just not as good as you think it is.
 
 This is screenshot of the main part of my code.
 ![The AJAX call](axios.png)
@@ -33,9 +33,11 @@ When I came back after my illness. I saw that one of my teammates had made a bun
 
 I know for sure this was trash.
 ![useless line](useless.png)
-Here's where I did my teammates a disservice. I didn't comment this line of code on 39 where it says `<NewEmail />`. I put this in so I could see what was happening with the app while I was working on it. I should have made a comment in here about how it could be removed. Or better yet, remove it before I commited the code to github.
+Here's where I did my teammates a disservice. I didn't comment this line of code on 39 where it says `<NewEmail />`. I put this in so I could see what was happening with the app while I was working on it. I should have made a comment in here about how it could be removed. Or better yet, remove it before I committed the code to github.
 
 I wish I hadn't gotten sick this week. There's a lot of things that my team did that I need to catch up on. 
 
 ###Development Journal Entry.
+
+I already spoke above about how my work integrated with my teammate's work. It's starting to become clear that a medium-sized project like this will be a challenge to get all the pieces working together. One of the best tools for this challenge is git. Git makes it easier to keep track of the changes of 5 people across 5 computers. Going forward, we'll have to continue our communication. We'll have to make sure everyone is on the same page about what we are doing. Next week I'll have a better understanding of this, as this week, I was sick for three out of five days.
 
