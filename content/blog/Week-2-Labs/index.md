@@ -7,6 +7,8 @@ date: '2019-01-18T22:40:32.169Z'
 
 ###Individual Accomplishments
 
+_whiteboard video tba_
+
 I was sick this week. Lucky me I had/have [off-brand influenza that can't be treated with anti-viral drugs. :(](https://www.cdc.gov/parainfluenza/index.html) Good times. I hope I'm %100 soon. 
 
 ##### Our Team's graph.
