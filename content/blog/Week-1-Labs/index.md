@@ -9,7 +9,7 @@ date: '2019-01-11T22:40:32.169Z'
 
 Whiteboard interview. I didn't do it this week because it was optional.
 
-Github Handle: [ceejaay](https://github.com/ceejaay?tab=repositories)
+Github Handle: [ceejaay](https://github.com/ceejaay)
 
 [Team's Graph](https://github.com/Lambda-School-Labs/dont-send-that-email/graphs/contributors)
 
