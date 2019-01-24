@@ -7,7 +7,7 @@ date: '2019-01-25T22:40:32.169Z'
 
 ###Individual Accomplishments
 
-
+[Time Planner Whiteboard problem](https://www.youtube.com/watch?v=sSoHwSHUkHQ)
 
 ##### Our Team's graph.
 ![Team Graph](graph_image.png)
@@ -35,6 +35,10 @@ Of all of these pull requests, the one we'll discuss today is this one:
 
   The most interesting thing I worked on was the crunching of the Watson tone score. The IBM Watson API sends back a score for every sentence you send it. That score has a name, and a numerical score. The name is like 'angry' or 'joyful'. The score is a number. 0.5908, for example. This score requires interpretation. 0.5 doesn't mean the tone is %50 angry. The Watson score is a scale from about 0.5, which is just barely registering on the emotion scale, to 0.75. Which is 'Strong likelihood of emotion.' So we can't just convert the number to a percent and call it a day. 
   The scale is about 25 points. With 50 being low, and 75 being high. So the formula we have to use is this: We get the number from Watson. Then we strip out the decimals. We do that by multiplying by 100. Then we divide that number by 75. Which is the top number. The result is a percentage we can use to interpret the score.
-  I found this pretty interesting to work out. Now, I'm not sure if Watson is supposed to be interpreted this way. But I think it will work for our purposes. Overall the formula is pretty simple. But it took me a while to get there. I went through several versions of work before I arrived at the percentage formula. At first, I thought we'd do a range of points. Setting up a switch block and having a variety of cases to return a number in which to interpret. It's best to keep things simple. So I was able to work out the percentage. Eventually it will look like this: ![this is what the percentage thing will look like.](percentage_numbers.png)
+  I found this pretty interesting to work out. Now, I'm not sure if Watson is supposed to be interpreted this way. But I think it will work for our purposes. Overall the formula is pretty simple. But it took me a while to get there. I went through several versions of work before I arrived at the percentage formula. At first, I thought we'd do a range of points. Setting up a switch block and having a variety of cases to return a number in which to interpret. It's best to keep things simple. So I was able to work out the percentage. 
+
 ###Development Journal Entry.
+
+The thing that I learned putting together a large project like this is communication. I feel like I could have been more involed in the communication process on this app. When I started this week, I felt like there were things I could have done by myself. And there were, but that stuff was overwritten pretty quickly when the team came back to work on Tuesday. At this stage of the process, we had a lot of decisions to make. It really was a bad idea for me to work in too much isolation from the group. There are advantages to working in a remote team. But the tradeoff it you have to really communicate more than you think you need to.
+
 
