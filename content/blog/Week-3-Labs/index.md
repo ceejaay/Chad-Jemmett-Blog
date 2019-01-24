@@ -10,7 +10,7 @@ date: '2019-01-25T22:40:32.169Z'
 [Time Planner Whiteboard problem](https://www.youtube.com/watch?v=sSoHwSHUkHQ)
 
 ##### Our Team's graph.
-![Team Graph](graph_image.png)
+![Team Graph](team_graph.png)
 
 This week I did a lot of work by myself. I had to be out-of-town for part of this week. So I spent part of the weekend trying to get ahead. Working solo on a large-ish code project is difficult.  I didn't want to disturb my teammates while they were taking time off. So I had to decipher some of the code myself. Working on a team you only see bits of the codebase. So there's lots of parts that you don't see. So it can be difficult to understand what's going on where.
   I had to learn a bit of bootstrap this week. I have never used bootstrap before so it took me a while to figure out what all the abreviations meant. Like every other project I've worked in the last few months, I've had to read a lot of documentation. I spent part of my time solo reading up on how bootstrap works and what you need to do to format things a certain way.
