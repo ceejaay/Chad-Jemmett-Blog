@@ -45,6 +45,8 @@ Of all of these pull requests, the one we'll discuss today is this one:
 [fixed a bug that showed duplicate docs on the page](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/132) and  [Fixed the bug that was caused by the above PR](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/142)
 
 We were faced with a problem. When you saved a version of the email you were working on, it would list another copy of that document in your documents list view. This turned out to be a SQL query problem. The query would look for the email message. Then it would check for all the versions. Then it would return all the versions and it's original email. Our frontend app would render every item in the array returned from the database. I thought the fix was `groupBy` which is a knex function. That worked until we put it into production. In development we use sqlite. In production we use postgresql. Postgresql does not like the `groupBy` function.
+
+The original solution:
 ![The original solution](original_solution.png)
 
 So we had to fix it. I wasn't able to fix it by myself. I had to do some pair programming. My colleague Jared Cuffe, helped me out with it. Rather, I watched while he figured it out. First we used node to do some test sql querys. We ultimately didn't figure that out. Sql is hard. So we had to come up with another solution. We finally went through the array returned from the database and only picked the latest items in the array. So we would eliminate any version that was an older duplicate. 
