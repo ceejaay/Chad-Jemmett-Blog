@@ -4,7 +4,7 @@ date: '2019-02-01T22:40:32.169Z'
 ---
 
 ###Individual Accomplishments
-[Sort Top Scores](https://www.youtube.com/watch?v=r8pwHPfYmeM&feature=youtu.be)
+[Sort Top Scores Whiteboard Practice Video](https://www.youtube.com/watch?v=r8pwHPfYmeM&feature=youtu.be)
 
 
 ##### Our Team's graph.
