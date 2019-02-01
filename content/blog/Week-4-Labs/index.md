@@ -10,19 +10,9 @@ date: '2019-02-01T22:40:32.169Z'
 ##### Our Team's graph.
 ![Team Graph](team_graph.png)
 
+This week I was out of the loop a bit. I missed a meeting where the team went over every part of the app to decided what needed to be done. That wasn't a great meeting to miss. I had some family responsibilities, that's why I missed it. I learned this week it's hard to try to split your time between responsibilities. I tried to do both, but only one got my attention. I had chose to focus on my family repsonsibilities. Which isn't bad, but I really need to do well on my work here at Lambda School so I can be a better contributor to my family in the future.
 
-I was pretty disappointed in my progress this week. I tried to do two things. Participate in a family event  while on the road, and keep up on my school work. Not a good combination. So the things I learned:
-
-1. You can't do both unless you are really good at the project you are doing.
-  I found when I went from doing family things to trying to catch up on the code that had changed that day It was hard to make sense of it. I'm still pretty new to this process of programming.
-
-2. It would have helped if I had made time to attend all the meetings. My team went over the project page by page to talk about changes and planning. Missing that made it so I was unclear on what what happening and where things were going.
-
-3. Pay for wifi on the plane. Late in my flight when I realized I couldn't do some of my work without accessing the authorization process, I finally paid for an hour of wifi. It made a big difference.
-
-4. being out of the loop is bad. Personally, when I'm not sure what's going on, I tend to try to do things on my own. That leads to a lot of time fumbling in the dark. Constant communication with the team means a better relationship. A better relationship means it's easier to ask for help. That means less down time figuring out what's changed.
-
-
+I did get some modest participation in. I will have to spend some of the weekend catching up.
 
 Github Handle: [ceejaay](https://github.com/ceejaay)
 
