@@ -23,6 +23,8 @@ Github Handle: [ceejaay](https://github.com/ceejaay)
 [Reduced size of hamburger icon](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/154)
 [Fixed overlap of greeting text and hamburger icon](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/155)
 
+[Analyzed text is bold and white](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/156)
+
 ##### Back End
 [fixed a bug that showed duplicate docs on the page](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/132)
 
