@@ -22,6 +22,7 @@ Github Handle: [ceejaay](https://github.com/ceejaay)
 [Fixed some punctuation.](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/147)
 [Reduced size of hamburger icon](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/154)
 [Fixed overlap of greeting text and hamburger icon](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/155)
+Note: this fix was closed. My colleague was in the process of fixing it.
 
 [Analyzed text is bold and white](https://github.com/Lambda-School-Labs/dont-send-that-email/pull/156)
 
